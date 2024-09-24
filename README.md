@@ -1,8 +1,8 @@
-Hi there, I'm Rohan Kasodariya! 👋
+# Hi there, I'm Rohan Kasodariya! 👋
 
 Welcome to my GitHub profile! I'm currently pursuing my Master's in Applied Machine Intelligence at Northeastern University. I have a strong background in data analysis, machine learning, and cloud computing, and I'm passionate about leveraging data to drive meaningful insights and solutions.
 
-🚀 About Me
+## 🚀 About Me
 
 - 🔭 I’m currently working on enhancing my machine learning and deep learning skills through various projects.
 - 🌱 I’m currently learning advanced topics in machine learning, cloud computing, and data engineering.
@@ -13,14 +13,28 @@ Welcome to my GitHub profile! I'm currently pursuing my Master's in Applied Mach
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I developed a predictive model with a 97% accuracy rate to identify high-risk patients for cerebral stroke!
 
-🛠️ Technical Skills
+## 🛠️ Technical Skills
 
-- Programming Languages: Python, R, SQL, HTML, CSS, JavaScript
-- Data Analysis & Visualization: Excel (Vlookup, Hlookup, Pivot Tables, Charts), Tableau, Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning & Deep Learning: scikit-learn, TensorFlow, Keras, PyTorch
-- Data Cleaning and Preprocessing: Data normalization, feature scaling, handling missing values
-- Cloud Computing: AWS (EC2, S3, Athena, Data Pipeline)
-- Other Tools:bGit, Power BI, Jupyter Notebook
+- **Programming Languages:** Python, R, SQL, HTML, CSS, JavaScript
+- **Data Analysis & Visualization:** Excel (Vlookup, Hlookup, Pivot Tables, Charts), Tableau, Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning & Deep Learning:** scikit-learn, TensorFlow, Keras, PyTorch
+- **Data Cleaning and Preprocessing:** Data normalization, feature scaling, handling missing values
+- **Cloud Computing:** AWS (EC2, S3, Athena, Data Pipeline)
+- **Other Tools:** Git, Power BI, Jupyter Notebook
+
+## 📈 GitHub Stats
+
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RohanKasodariya&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKasodariya&layout=compact&theme=radical)
+
+## 📫 Get in Touch
+
+- LinkedIn: [Rohan Kasodariya](https://www.linkedin.com/in/rohankasodariya/)
+- GitHub: [RohanKasodariya](https://github.com/RohanKasodariya)
+- Email: [kasodariya.r@northeastern.edu](mailto:kasodariya.r@northeastern.edu)
+
+Thanks for visiting my profile! 😊
 
 
 <!---
